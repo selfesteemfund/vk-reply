@@ -1,5 +1,5 @@
 {
-  "status": "on",
+  "botStatus": "on",
   "whiteListStatus": "on",
   "whiteList": ["DM"]
 }
